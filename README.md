@@ -1,4 +1,4 @@
 # SGP-3
-Sri-Vari Pharmacy Management System
+# Sri-Vari Pharmacy Management System
 
 
